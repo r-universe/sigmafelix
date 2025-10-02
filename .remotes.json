@@ -1,0 +1,8 @@
+[
+  {
+    "package": "tidycensuskr",
+    "url": "https://github.com/sigmafelix/tidycensuskr",
+    "via": ["tidycensussfkr"],
+    "from": "tidycensussfkr"
+  }
+]
