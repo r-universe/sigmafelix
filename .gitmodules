@@ -5,6 +5,6 @@
 [submodule "tidycensuskr"]
 	path = tidycensuskr
 	url = https://github.com/sigmafelix/tidycensuskr
-[submodule "tidycensussfkr"]
-	path = tidycensussfkr
-	url = https://github.com/sigmafelix/tidycensussfkr
+[submodule "tidycensuskr.sf"]
+	path = tidycensuskr.sf
+	url = https://github.com/sigmafelix/tidycensuskr.sf
