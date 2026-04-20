@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/sigmafelix/sigmafelix.r-universe.dev
 	branch = HEAD
+[submodule "autoSTK"]
+	path = autoSTK
+	url = https://github.com/sigmafelix/autoSTK
 [submodule "gopher"]
 	path = gopher
 	url = https://github.com/sigmafelix/gopher
